@@ -47,7 +47,7 @@ The following four scripts will run all major functions and produce entropy matr
 MaximallyConfusableSubsets.py 
 MaximallyConfusableSubsets_Deidentified.py
 ExtractDeidentifiedDists.py
-EntropyCalculations.py
+EntropyCalculations.py 
 
 All four scripts require a plat in .csv format as a first argument. They should be executed in the following order:
 
