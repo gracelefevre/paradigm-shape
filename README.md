@@ -1,9 +1,9 @@
 "Formalizing Inflectional Paradigm Shape with Information Theory"
 
 Authors:
-Grace LeFevre (The Ohio State University, Department of Linguistics)
-Micha Elsner (The Ohio State University, Department of Linguistics)
-Andrea D. Sims (The Ohio State University, Department of Linguistics, Department of Slavic & East European Languages & Cultures)
+Grace LeFevre (The Ohio State University, Department of Linguistics)  
+Micha Elsner (The Ohio State University, Department of Linguistics)  
+Andrea D. Sims (The Ohio State University, Department of Linguistics, Department of Slavic & East European Languages & Cultures)  
 
 
 ####################
@@ -25,14 +25,14 @@ This release was built using Python 3.7.4 (Anaconda3) in Windows 10.
 
 It consists of the following scripts:
 
-MaximallyConfusableSubsets.py
-MaximallyConfusableSubsets_Deidentified.py
-ExtractDeidentifiedDists.py
-EntropyCalculations.py
-aStar_matching.py
-approximateMultialign.py
-maxunifiedmatching.py
-tsne.py
+MaximallyConfusableSubsets.py  
+MaximallyConfusableSubsets_Deidentified.py  
+ExtractDeidentifiedDists.py  
+EntropyCalculations.py  
+aStar_matching.py  
+approximateMultialign.py  
+maxunifiedmatching.py  
+tsne.py  
 
 INPUT FILES
 
@@ -44,10 +44,10 @@ USAGE
 
 The following four scripts will run all major functions and produce entropy matrices for the input data:
 
-MaximallyConfusableSubsets.py 
-MaximallyConfusableSubsets_Deidentified.py
-ExtractDeidentifiedDists.py
-EntropyCalculations.py 
+MaximallyConfusableSubsets.py  
+MaximallyConfusableSubsets_Deidentified.py  
+ExtractDeidentifiedDists.py  
+EntropyCalculations.py  
 
 All four scripts require a plat in .csv format as a first argument. They should be executed in the following order:
 
